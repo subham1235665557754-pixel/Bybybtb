@@ -1,0 +1,6 @@
+{
+  "name": "Next Topper - SpidyUniverse",
+  "description": "Ultra Premium Educational Platform for Class 9th, 10th, 11th, and 12th Batches with live video lectures and study material.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
